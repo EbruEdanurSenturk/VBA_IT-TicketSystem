@@ -28,7 +28,7 @@ The system is designed to:
 
 ---
 
-- ### Usage
+### Usage
 1. Open `IT_Ticket_System.xlsm` (enable macros).  
 2. Add and update tickets via the provided forms.  
 3. Ticket data is stored in `IT-Ticket-System_Database.accdb`.  
